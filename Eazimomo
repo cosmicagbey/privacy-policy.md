@@ -1,0 +1,63 @@
+Privacy Policy
+
+Effective Date: November 07, 2026 (Updated)
+
+This Privacy Policy applies to the Eazimomo mobile application (the "Application"), developed and maintained by Gbekonzy (the "Service Provider") as a Freemium service. This service is provided "AS IS".
+
+1. Information Collection and Use
+
+The Application collects specific information when you download, sign in, and use it to deliver its core functionalities:
+
+Email Address: Collected securely via Google Sign-In to authenticate your account and link your trial or subscription status to your user profile.
+Device Identifiers: We collect your device's Android ID and a hashed version of your Firebase Installation ID (FID) and hardware fingerprint. This is used solely for fraud prevention and managing trial eligibility across device resets/reinstalls.
+Payment Information: If you upgrade to a premium subscription plan, payment processing is handled securely via Paystack. We store only transaction references, subscription plan choices, and payment status. We do not store or process your credit/debit card numbers or bank credentials.
+Fraud Reporting Data: If you use the optional "Report Fraud" feature, the information submitted (fraudulent phone number, description, optional screenshot, and your linked account email) is securely transmitted through our Firebase backend to the telecommunications fraud team for review.
+Data Stored Locally (Never Transmitted):
+Transaction Logs & Custom Shortcuts: Your created USSD shortcuts, recipient phone numbers, and network responses are stored strictly in the local database on your device and are never transmitted to our servers or third parties.
+Contact Access: The Application may request permission to read your contacts to allow you to conveniently pick recipient numbers. Contact data is processed exclusively on your device and is never uploaded or backed up to remote servers.
+Location & Analytics: The Application does not track your GPS location, page visit durations, or browsing patterns.
+Artificial Intelligence (AI): The Application does not use AI algorithms or machine learning models to analyze or process your personal data.
+2. AccessibilityService API Disclosure
+
+To comply with Google Play Developer policies, we provide a prominent disclosure regarding our use of the Android AccessibilityService API:
+
+Purpose: The AccessibilityService is utilized exclusively to automate multi-step USSD sessions (e.g., automated dialing sequences) and capture transaction status dialogs without requiring manual menu navigation.
+Data Accessed: The service only interacts with and reads text displayed within network USSD system dialogs.
+Data Privacy: Any text captured from USSD dialogs (such as reference codes or confirmation messages) is stored solely in the local SQLite/Room database on your device. No data captured via the AccessibilityService is ever transmitted, shared, sold, or uploaded to our servers or any third parties.
+3. Third-Party Services and Data Sharing
+
+We do not sell, rent, or trade your personal information. We only share necessary data with trusted third-party service providers to facilitate authentication and payment processing:
+
+Google Play Services & Firebase
+: Authentication, cloud functions, and database infrastructure.
+Paystack
+: Payment gateway handling mobile money and card transactions.
+Legal Disclosures
+
+We may disclose information if required to do so:
+
+By law or to comply with a subpoena, court order, or legal process.
+To protect the rights, property, or safety of users, the public, or the Service Provider.
+To investigate suspected fraud or abuse.
+4. Data Retention and Account Deletion
+Retention: User profile data (email address and device hash) is retained for as long as you maintain an active account to manage your access rights and prevent trial abuse.
+Account & Data Deletion: You have the right to request the complete deletion of your account and all associated backend records. To request deletion, email kentbanks96@gmail.com with the subject line "Account Deletion Request". Your account and associated records will be permanently deleted within a reasonable timeframe.
+Local Data Deletion: You can delete all locally stored transaction logs and shortcuts at any time by clearing the app data in Android settings or uninstalling the app.
+5. Children's Privacy
+
+The Application is not directed toward children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided personal details, we will promptly delete that information from our servers. Parents or guardians may contact us at kentbanks96@gmail.com to report any such concerns.
+
+6. Security
+
+We take reasonable technical, physical, and procedural precautions to protect your information against unauthorized access, alteration, or disclosure. All communication between the app and backend services is encrypted using industry-standard TLS/SSL protocols.
+
+7. Changes to This Policy
+
+We may update our Privacy Policy periodically. Any changes will be posted to this page, and the effective date will be updated accordingly. Continued use of the Application after changes are posted constitutes your acceptance of the revised policy.
+
+8. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact:
+
+Developer / Service Provider: Gbekonzy
+Email: kentbanks96@gmail.com
